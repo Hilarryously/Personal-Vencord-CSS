@@ -1,0 +1,27 @@
+/**
+ * @name Синъэй Нодзэн и Владилена Миризе - Восемьдесят шесть
+ * @author Systemd
+ * @version auto updates
+ * @description Тема создана в генераторе https://vsthemes.org/generator/
+ * @source https://vsthemes.org/skins/discord/34507-shinei-nouzen-and-vladilena-milize.html
+ * @authorLink https://vsthemes.org/user/Systemd/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.65;
+    --guildchanneltransparency: 0.25;
+    --memberlistransparency: 0;
+    --accentcolor: 35,40,148;
+    --background: url("https://vsthemes.org/uploads/posts/2021-06/1624333871_62564506-0-q80_auto_x2_light_aishshsch.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
